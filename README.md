@@ -12,6 +12,8 @@ liver_cirrhosis_predictor/
 │   └── model.pkl                    # Trained ML model
 │
 ├── notebooks/                       # 🔹 Jupyter notebooks for EDA and experiments
+
+
 │   └── liver_cirrhosis_eda.ipynb    # Exploratory Data Analysis
 │
 ├── src/                             # 🔹 Source code for training and prediction
@@ -129,4 +131,5 @@ Risk Prediction: Cirrhosis (1) or Not (0)
 
 Optionally: Probability of cirrhosis (e.g., 0.83)
 
-#zipfile 
+#zipfile : [liver_cirrhosis_predictor_detailed.zip](https://github.com/user-attachments/files/21107119/liver_cirrhosis_predictor_detailed.zip)
+#demofile : https://drive.google.com/file/d/1UjqWpqv7MuisS8-AuW3cf7JeM2K68VgT/view?usp=drivesdk
