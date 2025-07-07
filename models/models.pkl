@@ -1,0 +1,8 @@
+Saved using joblib or pickle
+
+Stores the trained RandomForestClassifier or your selected model
+
+Saved in train_model.py after training:
+
+python
+joblib.dump(model, "models/model.pkl")
