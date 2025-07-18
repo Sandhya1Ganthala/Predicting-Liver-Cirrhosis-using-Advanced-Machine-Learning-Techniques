@@ -131,6 +131,6 @@ Risk Prediction: Cirrhosis (1) or Not (0)
 
 Optionally: Probability of cirrhosis (e.g., 0.83)
 
-#zipfile : [liver_cirrhosis_predictor_detailed (1).zip](https://github.com/user-attachments/files/21320183/liver_cirrhosis_predictor_detailed.1.zip)
+#zipfile: [liver_cirrhosis_predictor (2).zip](https://github.com/user-attachments/files/21320440/liver_cirrhosis_predictor.2.zip)
 
 #demofile : https://drive.google.com/file/d/1UjqWpqv7MuisS8-AuW3cf7JeM2K68VgT/view?usp=drivesdk
