@@ -1,5 +1,11 @@
+import sys
+import os
+
+# Ensure the project root is on Python's import path when Streamlit runs from app/
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 import streamlit as st
-from predict import predict_risk
+from src.predict import predict_risk
 
 st.title("Liver Cirrhosis Predictor")
 

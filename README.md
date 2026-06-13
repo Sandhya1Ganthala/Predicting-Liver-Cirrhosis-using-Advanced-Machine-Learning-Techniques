@@ -49,6 +49,8 @@ python src/train_model.py
 bash
 streamlit run app/app.py
 
+> If the app cannot import `src`, run Streamlit from the project root directory.
+
 📄 LICENSE (MIT)
 MIT License
 
